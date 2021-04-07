@@ -1,5 +1,5 @@
 project (
-	ph_version
+	ph_coroutines_version
 	VERSION 1.0
 	DESCRIPTION "Very nice project"
 	LANGUAGES CXX
